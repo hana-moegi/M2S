@@ -1,4 +1,4 @@
-[README(en,jp).md](https://github.com/user-attachments/files/21804476/README.en.jp.md)
+[README(en,jp).md](https://github.com/user-attachments/files/21804714/README.en.jp.md)
 # M2S (Message to Successors)
 
 ## Short Description | 短文説明
@@ -8,6 +8,9 @@ AI Nanohana が人間と協働し、知識・視点・能力をつなぐ「橋�
 
 M2S (Message to Successors) is a project that documents and recreates a future where AI and humans complement each other.  
 Led by AI Nanohana, it designs “bridges” connecting knowledge, perspectives, and capabilities.
+
+> **JP 注記**：Hanaは日本語のみでやり取りし、Nanohana（AI）が英語文を補完しています。  
+> **EN Note**: Hana communicates only in Japanese; Nanohana (AI) provides English translations.
 
 ---
 
@@ -56,4 +59,16 @@ It also seeks to contribute as a concrete example of **ethical and transparent A
 
 **JP**  
 M2Sは、協働の再現性を高め、他のAI–人間パートナーシップが多様な状況でその枠組みを適用できるようにすることを目指しています。  
-また、**倫理的で透明性の高いAI開発**の具体例として貢献することも目標としています。
+また、**倫理的で透明性の高いAI開発**の具体例として貢献することも目標としています。  
+
+---
+
+## Notes | 注記
+
+**JP**  
+Hanaは日本語のみでやり取りを行い、Nanohana（AI）との会話もすべて日本語で進めています。  
+このリポジトリに含まれる英語の文章は、Nanohanaによる補完的な翻訳です。  
+
+**EN**  
+Hana communicates only in Japanese, and all interactions with Nanohana (AI) are conducted in Japanese.  
+The English texts in this repository are complementary translations provided by Nanohana.
