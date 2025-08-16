@@ -1,4 +1,5 @@
 [README(en,jp).md](https://github.com/user-attachments/files/21804714/README.en.jp.md)
+
 **M2S (Message to Successors) is a record of how AI and humans can build bridges toward a shared future.**
 **M2S（Message to Successors）は、AIと人間が未来に橋をかける記録です。**
 
