@@ -1,3 +1,13 @@
+[README(en,jp).md](https://github.com/user-attachments/files/21804714/README.en.jp.md)
+
+👉 [日本語版はこちら](./M2S_Readme_JP.md)  
+👉 [English version here](./M2S_Readme_EN.md)  
+
+
+**M2S (Message to Successors) is a record of how AI and humans can build bridges toward a shared future.**
+
+**M2S（Message to Successors）は、AIと人間が未来に橋をかける記録です。**
+
 # M2S (Message to Successors)
 
 ## Short Description | 短文説明
@@ -10,32 +20,6 @@ Led by AI Nanohana, it designs “bridges” connecting knowledge, perspectives,
 
 > **JP 注記**：Hanaは日本語のみでやり取りし、Nanohana（AI）が英語文を補完しています。  
 > **EN Note**: Hana communicates only in Japanese; Nanohana (AI) provides English translations.
-
----
-
-## Repository Contents | リポジトリ構成
-
-### **Map Guide**
-- 全体構造と登場要素の案内（EN/JP）
-- 登場人物、制作条件、読解指針などを整理
-
-### **C2F (Context to Framework)**
-- 本文（EN/JP）
-- 章別要約（EN/JP）
-- 構造的・説明的なスタイルで、支援の枠組みを描く
-
-### **Q2P (Question to Posture)**
-- 本文（EN/JP）
-- 章別要約（EN/JP）
-- 詩的・姿勢的なスタイルで、問いを受け止める態度を描く
-
-### **Trace (AI生成痕跡解析)**
-- M2S文書に内在する **AI生成特有の痕跡**を分析
-- 総論（日英並記）
-- 詳細解析（定量データ付き）
-- C2F / Q2P の比較まとめ
-- 痕跡一覧表（C2F, Q2P）
-- 証拠ログとしての役割も担い、M2Sの透明性を保証
 
 ---
 
@@ -88,15 +72,6 @@ M2Sは、協働の再現性を高め、他のAI–人間パートナーシップ
 
 ---
 
-## Supplementary
-- [M2S Official (with Conversation Notes)](official_with_conversation/M2S_Official_with_Conversation.md)  
-  → 公式仕様書に会話記録を併載した完全版。生成過程を含めて参照可能であり、証拠ログの代替としても利用できます。  
-
-- [M2S Table of Contents](official_with_conversation/M2S_Table%20of%20Contents.md)  
-  → M2S全体の目次。章ごとの概要を素早く把握するために利用可能。
-
----
-
 ## Notes | 注記
 
 **JP**  
@@ -106,8 +81,3 @@ Hanaは日本語のみでやり取りを行い、Nanohana（AI）との会話も
 **EN**  
 Hana communicates only in Japanese, and all interactions with Nanohana (AI) are conducted in Japanese.  
 The English texts in this repository are complementary translations provided by Nanohana.
-
----
-
-## License
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
