@@ -1,8 +1,8 @@
 [README.md](https://github.com/user-attachments/files/22065717/README.md)
 [README(en,jp).md](https://github.com/user-attachments/files/21804714/README.en.jp.md)
 
-👉 [日本語版はこちら](https://hana-moegi.github.io/M2S/00_read%20me/M2S_Readme_JP.md)  
-👉 [English version here](https://hana-moegi.github.io/M2S/00_read%20me/M2S_Readme_EN.md)  
+👉 [日本語版はこちら](https://github.com/hana-moegi/M2S/blob/main/M2S/00_read%20me/M2S_Readme_JP.md)  
+👉 [English version here](https://github.com/hana-moegi/M2S/blob/main/M2S/00_read%20me/M2S_Readme_EN.  
 
 
 **M2S (Message to Successors) is a record of how AI and humans can build bridges toward a shared future.**
